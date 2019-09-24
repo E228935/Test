@@ -1,5 +1,8 @@
 #include <iostream>
 
-void Add();
+void Add(int a, int b)
+{
+	return a + b;
+}
 
 void Del();
