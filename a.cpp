@@ -11,3 +11,8 @@ void Del(int a, int b)
 }
 
 void Div(int a, int b);
+
+int Mul(int a, int b) 
+{
+	return a * b;
+}
