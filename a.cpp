@@ -5,4 +5,7 @@ void Add(int a, int b)
 	return a + b;
 }
 
-void Del(int a, int b);
+void Del(int a, int b)
+{
+	return 0;
+}
