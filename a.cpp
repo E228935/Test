@@ -7,5 +7,5 @@ void Add(int a, int b)
 
 void Del(int a, int b)
 {
-	return 0;
+	return a - b;
 }
