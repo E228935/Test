@@ -21,3 +21,8 @@ int Mul(int a, int b)
 {
 	return a * b;
 }
+
+int QuYu(int a, int b)
+{
+	return a % b;
+}
